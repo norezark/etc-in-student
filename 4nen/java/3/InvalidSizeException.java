@@ -1,0 +1,3 @@
+class InvalidSizeException extends Exception
+{
+}

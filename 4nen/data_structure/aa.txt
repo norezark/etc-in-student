@@ -1,0 +1,6 @@
+ar = [m.replace('@g.kumamoto-nct.ac.jp\n', '') for m in ar]
+r = ["
+{
+    :<13}".format(m) for m in ar]
+}
+list(map(list,  zip(*ar)))

@@ -1,0 +1,4 @@
+If no VARIABLE is specified,  print name and value pairs for them all.
+
+    -0, --null     end each output line with 0 byte rather than newline
+        --help     print this help and quit

@@ -1,0 +1,6 @@
+./mychmod -h
+./mychmod MODE[,MODE]... FILE...
+./mychmod OCTAL_MODE FILE...
+-h: this help
+e.g. MODE: u=r,g+w,o-x
+     OCTAL_MODE: 644
